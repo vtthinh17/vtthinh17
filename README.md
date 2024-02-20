@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vuong Truong Thinh
-- 🌱 I’m currently learning IT at Can Tho University (K45)
-- 📫 How to reach me: "vtthinh17st@gmail.com"
+- 🌱 I’m graduted student of Can Tho University (K45)
+- 📫 I am looking for jobs in the following positions: fresher BE/FE Developer.
+- Contact me via email "vtthinh17st@gmail.com" or phone number: 035 971 4148.
 
 <!---
 vtthinh17/vtthinh17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
